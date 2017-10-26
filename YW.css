@@ -1,0 +1,220 @@
+.nav-link{
+  font-weight: bold;
+}
+
+.navbar-brand{
+  font-weight: bold;
+}
+.row {
+  margin: 5px auto;
+}
+
+.table-responsive {
+  margin: 30px auto;
+}
+
+.jumbotron {
+  background-image:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),url(http://clv.h-cdn.co/assets/17/23/980x654/gallery-1496945163-homes-on-the-lake-roxboro-0717-0817.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  float: center;
+  margin: 0px;
+  min-height: 20%;
+  background-size: cover;
+}
+
+.jum-text{
+  color: white;
+  text-align: center;
+  vertical-align: center;
+  font-size: 2rem;
+  font-family: "Coustard", serif;
+}
+
+.search-bar{
+  width: 200px;
+  margin-left: 150px;
+}
+
+.rounded{
+  height: 250px;
+}
+
+.row{
+  width: 400px;
+  margin: 10px auto;
+  display: inline;
+  height: 250px;
+}
+
+.before{
+  width: 375px;
+  float: left;
+}
+
+.after{
+  width: 375px;
+  float: right;
+}
+
+.navbar-nav{
+  width: 750px;
+}
+
+.d-inline-flex{
+  width: 420px;
+  height: 300px;
+
+}
+
+.tri-glyph{
+  height: 320px;
+  padding-top: 10px;
+  width: 75%;
+
+}
+
+.feel-duped{
+  font-family: "Coustard", serif;
+  margin-left: 5px;
+
+}
+
+.feel-liedTo {
+  font-family: "Coustard", serif;
+}
+
+.feel-robbed{
+  font-family: "Coustard", serif;
+  margin-left: 5px;
+}
+
+.feels-title{
+  font-weight: bold;
+  color: #2e7d32;
+}
+
+.feels-instr{
+  font-style: italic;
+  font-size: 12px;
+  color: gray;
+}
+
+.feels-body{
+  color:#43a047;
+}
+
+#body-main {
+  background-color: white;
+}
+
+#body-photo {
+  background-color: #007E33;
+}
+
+#body-help{
+  background-color: white;
+}
+
+
+.footer{
+  width: 100%;
+  height: 50px;
+  margin-top: 50px;
+  background-color: #007E33;
+  color: white;
+}
+
+p > a{
+  color: white;
+}
+
+.footer-text{
+  margin: 20px;
+  padding-bottom: 10px;
+  font-size: 14px;
+}
+
+.container-fluid.tri-glyph{
+  width:100%;
+}
+
+hr{
+   display: block;
+   position: relative;
+   padding: 0;
+   margin: 8px auto;
+   height: 0;
+   width: 95%;
+   max-height: 0;
+   font-size: 1px;
+   line-height: 0;
+   clear: both;
+   border: none;
+   border-top: 1px solid #aaaaaa;
+   border-bottom: 1px solid #ffffff;
+}
+
+.img-fluid.img-thumbnail{
+  margin: 15px auto;
+  background-color: white;
+}
+
+.picture-row{
+  margin: auto 225px;
+}
+
+.gal-title{
+  text-align: center;
+  width: 100%;
+  margin: 20px auto;
+  font-family: "Coustard", serif;
+  color: #007E33;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.gal-title2{
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin: 20px auto;
+  font-family: "Coustard", serif;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.div-pics{
+  background-color: white;
+  padding-top: 10px;
+}
+
+#skinny{
+  width: 143px;
+}
+
+#double-stack-pic{
+  width: 290px;
+}
+
+ul.FX{
+  display:inline-flex;
+  flex-direction: column;
+  flex-flow: column nowrap;
+  align-items: center;
+  margin: 5px 25px;
+  background-color: #00C851;
+  padding: 20px;
+  width: 620px;
+  color: white;
+  font-family: "Coustard", serif;
+  height: 400px;
+}
+
+h3.list-title{
+  text-decoration: underline;
+}
