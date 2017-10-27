@@ -13,8 +13,6 @@
   margin: 30px auto;
 }
 
-
-
 .jumbotron {
   background-image:
   linear-gradient(
@@ -77,13 +75,11 @@
   height: 320px;
   padding-top: 10px;
   width: 75%;
-
 }
 
 .feel-duped{
   font-family: "Coustard", serif;
   margin-left: 5px;
-
 }
 
 .feel-liedTo {
@@ -202,9 +198,31 @@ div.FX-contact{
   height: 300px;
   color: white;
   font-family: "Coustard", serif;
+}
 
+
+div.homepage_content{
+  font-family: "Coustard", serif;
+}
+
+div.homepage_content.media_xs_order_one{
+  width: 90%;
+  padding-left: 20px;
 
 }
+
+div.homepage_content.media_xs_order_two{
+  width: 90%;
+  padding-left: 20px;
+
+}
+
+div.homepage_content.media_xs_order_three{
+  width: 90%;
+  padding-left: 20px;
+
+}
+
 
 .div-pics{
   background-color: white;
