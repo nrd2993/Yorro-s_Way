@@ -43,24 +43,15 @@ div.jumbotron.jumbotron-fluid {
   height: 250px;
 }
 
-.before{
-  width: 375px;
-  float: left;
-}
-
-.after{
-  width: 375px;
-  float: right;
-}
-
 .navbar-nav{
   width: 750px;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 
 .d-inline-flex{
   width: 420px;
   height: 300px;
-
 }
 
 .tri-glyph{
@@ -153,11 +144,10 @@ div.centerFlex{
   align-items: center;
   justify-content:center;
   -webkit-justify-content: center;
-
 }
 
-
-div.gal-title, div.gal-title2{
+div.gal-title,
+div.gal-title2{
   text-align: center;
   width: 100%;
   margin: 20px auto;
@@ -179,7 +169,6 @@ div.FX-contact{
   flex-direction: column;
   -webkit-flex-direction: column;
   background-color: #007E33;
-  height: 300px;
   color: white;
   font-family: "Coustard", serif;
 }
