@@ -138,6 +138,12 @@ hr{
 div.picture-column{
   -webkit-flex-direction: column;
   flex-direction: column;
+  display: flex;
+  display:-webkit-flex;
+  -webkit-align-items: center;
+  align-items: center;
+  justify-content:center;
+  -webkit-justify-content: center;
 
 }
 
