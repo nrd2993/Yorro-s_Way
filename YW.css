@@ -223,9 +223,8 @@ ul.FX{
   flex-direction: column;
   flex-flow: column nowrap;
   align-items: center;
-  margin: 5px 25px;
   background-color: #007E33;
-  padding: 20px;
+  padding: auto;
   width: 80%;
   color: white;
   font-family: "Coustard", serif;
