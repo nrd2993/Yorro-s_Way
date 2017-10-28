@@ -198,11 +198,12 @@ div.homepage_content{
   font-family: "Coustard", serif;
 }
 
-div.homepage_content.media_xs_order_one,
-div.homepage_content.media_xs_order_two,
-div.homepage_content.media_xs_order_three{
+div.homepage_content.media_xs_order_one.home,
+div.homepage_content.media_xs_order_two.home,
+div.homepage_content.media_xs_order_three.home{
   width: 90%;
   padding-left: 20px;
+  text-align: center;
 }
 
 .div-pics{
@@ -224,7 +225,7 @@ ul.FX{
   flex-flow: column nowrap;
   align-items: center;
   background-color: #007E33;
-  padding: auto;
+  padding: auto 20px;
   width: 80%;
   color: white;
   font-family: "Coustard", serif;
