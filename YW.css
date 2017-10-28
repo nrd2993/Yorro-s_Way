@@ -43,11 +43,11 @@ div.jumbotron.jumbotron-fluid {
   height: 250px;
 }
 
-.navbar-nav{
-  width: 750px;
-  -webkit-justify-content: center;
+ul.navbar-nav.mr-auto.nav{
+  width: 90%;
   justify-content: center;
-  padding-left: 150px;
+  -webkit-justify-content: center;
+
 }
 
 .d-inline-flex{
