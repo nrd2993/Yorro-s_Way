@@ -1,10 +1,7 @@
-.nav-link{
+.navbar-brand, .nav-link{
   font-weight: bold;
 }
 
-.navbar-brand{
-  font-weight: bold;
-}
 .row {
   margin: 5px auto;
 }
@@ -13,7 +10,7 @@
   margin: 30px auto;
 }
 
-.jumbotron {
+div.jumbotron.jumbotron-fluid {
   background-image:
   linear-gradient(
       rgba(0, 0, 0, 0.5),
@@ -23,7 +20,7 @@
   background-position: center center;
   float: center;
   margin: 0px;
-  min-height: 20%;
+  min-height: 15%;
   background-size: cover;
 }
 
@@ -33,11 +30,6 @@
   vertical-align: center;
   font-size: 2rem;
   font-family: "Coustard", serif;
-}
-
-.search-bar{
-  width: 200px;
-  margin-left: 150px;
 }
 
 .rounded{
@@ -77,20 +69,6 @@
   width: 75%;
 }
 
-.feel-duped{
-  font-family: "Coustard", serif;
-  margin-left: 5px;
-}
-
-.feel-liedTo {
-  font-family: "Coustard", serif;
-}
-
-.feel-robbed{
-  font-family: "Coustard", serif;
-  margin-left: 5px;
-}
-
 .feels-title{
   font-weight: bold;
   color: #2e7d32;
@@ -110,13 +88,10 @@
   background-color: white;
 }
 
-#body-photo {
+#body-sub {
   background-color: #007E33;
 }
 
-#body-help{
-  background-color: white;
-}
 
 
 .footer{
@@ -138,7 +113,7 @@ p > a{
 }
 
 .container-fluid.tri-glyph{
-  width:100%;
+  width:95%;
 }
 
 hr{
