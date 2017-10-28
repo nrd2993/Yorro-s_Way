@@ -47,6 +47,7 @@ div.jumbotron.jumbotron-fluid {
   width: 750px;
   -webkit-justify-content: center;
   justify-content: center;
+  padding-left: 150px;
 }
 
 .d-inline-flex{
