@@ -179,7 +179,7 @@ div.gal-title, div.gal-title2{
   text-decoration: underline;
 }
 
-div.FX-contact{
+div.FX-contact.home{
   display:-webkit-flex;
   display: flex;
   flex-direction: column;
