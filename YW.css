@@ -83,6 +83,28 @@ div.gal-title2{
   font-weight: bold;
 }
 
+div.submission{
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  color: white;
+  font-family: "Coustard", serif;
+}
+
+h1#submission-title{
+  text-decoration: underline;
+}
+
+form{
+  margin: 10px auto;
+}
+
+h6#disclaimer{
+  text-align: center;
+}
+
 .navbar-brand, .nav-link{
   font-weight: bold;
 }
