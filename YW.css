@@ -10,6 +10,10 @@ p > a{
   color: white;
 }
 
+img#logo{
+  width: 150px;
+  height: 75px;
+}
 hr{
    display: block;
    position: relative;
@@ -92,7 +96,7 @@ div.submission{
   -webkit-flex-direction: column;
   color: white;
   font-family: "Coustard", serif;
-  
+
 }
 
 h1#submission-title{
