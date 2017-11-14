@@ -14,6 +14,7 @@ img#logo{
   width: 150px;
   height: 75px;
 }
+
 hr{
    display: block;
    position: relative;
@@ -53,9 +54,9 @@ ul.navbar-nav.mr-auto.nav{
 
 div.footer{
   width: 100%;
-  padding: 50px auto;
   background-color: #007E33;
   color: white;
+  text-align: center;
 }
 
 div.picture-column{
@@ -99,8 +100,9 @@ div.submission{
 
 }
 
-h1#submission-title{
+p#submission-title{
   text-decoration: underline;
+  font-size: 2.5rem;
 }
 
 form{
@@ -153,9 +155,7 @@ h6#disclaimer{
   color:#43a047;
 }
 
-.footer-text{
-  margin: 20px;
-  padding-bottom: 10px;
+p.footer-text{
   font-size: 14px;
 }
 
@@ -174,10 +174,13 @@ h6#disclaimer{
   text-decoration: underline;
 }
 
-div.FX-contact{
+div.FX-contact.centerFlex{
+  display: flex;
+  -webkit-display: flex;
   flex-direction: column;
   -webkit-flex-direction: column;
   background-color: #007E33;
+  margin: 20px;
   color: white;
   font-family: "Coustard", serif;
 }
@@ -224,6 +227,13 @@ ul.FX.media_xs_order_two{
   height: 400px;
 }
 
-h3.list-title, h1.contact-title{
+p.contact-content{
+  font-family: "Coustard", serif;
+  font-size: 1.5rem;
+}
+
+h1.contact-title{
+  font-size: 2.5rem;
   text-decoration: underline;
+  font-family: "Coustard", serif;
 }
