@@ -42,7 +42,7 @@ div.jumbotron.jumbotron-fluid {
   background-position: center center;
   float: center;
   margin: 0px;
-  min-height: 15%;
+  min-height: 300px;
   background-size: cover;
 }
 
@@ -141,8 +141,9 @@ h6#disclaimer{
 
 .homePageHeader{
   text-align: center;
-  margin: 0px, 15px;
+  margin: 0px 15px;
   color: #2e7d32;
+
 }
 
 .feels-instr{
