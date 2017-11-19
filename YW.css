@@ -10,6 +10,12 @@ p > a{
   color: white;
 }
 
+.carousel {
+    position: relative;
+    margin: auto 25%;
+    width: 50%;
+}
+
 img#logo{
   width: 150px;
   height: 75px;
