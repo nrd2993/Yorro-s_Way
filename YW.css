@@ -85,6 +85,19 @@ div.centerFlex{
   -webkit-justify-content: center;
 }
 
+.list-title{
+  color: white;
+  font-family: 'Coustard';
+}
+.list-item{
+  color: white;
+  font-family: 'Coustard';
+}
+.fa-linkedin-square{
+  color:white;
+}
+
+
 div.gal-title,
 div.gal-title2{
   text-align: center;
